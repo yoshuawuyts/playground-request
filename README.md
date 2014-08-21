@@ -1,19 +1,6 @@
 # playground-request
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Test coverage][coveralls-image]][coveralls-url]
 
-## Installation
-```bash
-$ npm i --save playground-request
-```
-## Overview
-```js
-```
-
-## API
-```js
-```
+Test project to learn request
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license) ©
